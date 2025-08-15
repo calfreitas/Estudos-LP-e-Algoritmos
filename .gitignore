@@ -1,0 +1,4 @@
+CMakeLists.txt
+readme.md
+/cmake-build-debug/
+/.idea/
